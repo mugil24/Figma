@@ -34,6 +34,8 @@ Figma
 
 ## CODE:
 ```
+
+
 ##page 1
 <div style="width: 360px; height: 640px; position: relative; background: #B91FD2">
   <img style="width: 360px; height: 640px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/360x640" />
@@ -89,6 +91,8 @@ Figma
   <div style="left: 30px; top: 548px; position: absolute; color: white; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">Email id : saveeth24@gmail.com</div>
   <div style="left: 30px; top: 586px; position: absolute; color: white; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">phone no : 8056637822</div>
 </div>
+
+
 ```
 
 
