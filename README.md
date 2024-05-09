@@ -48,6 +48,7 @@ Figma
   <div style="width: 91px; height: 21px; left: 143px; top: 471px; position: absolute; color: white; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">Register</div>
 </div>
 
+
 ##page 2
 <div style="width: 360px; height: 640px; position: relative; background: white">
   <img style="width: 360px; height: 640px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/360x640" />
@@ -58,6 +59,7 @@ Figma
   <div style="width: 109px; height: 17px; left: 139px; top: 330px; position: absolute; color: black; font-size: 14px; font-family: Inter; font-weight: 400; word-wrap: break-word">FOOT BALL</div>
   <div style="width: 67px; height: 20px; left: 139px; top: 366px; position: absolute; color: black; font-size: 14px; font-family: Inter; font-weight: 400; word-wrap: break-word">HOCKEY</div>
 </div>
+
 
 ##page 3
 <div style="width: 360px; height: 640px; position: relative; background: white">
@@ -94,6 +96,8 @@ Figma
 
 
 ```
+
+
 
 
 ## OUTPUT:
